@@ -2,6 +2,18 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
-    "lib": ["ES5", "DOM"]
+    "lib": [
+      "ES5",
+      "DOM"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "/@src/*": [
+        "src/*"
+      ]
+    },
+    "types": [
+      "lodash"
+    ]
   }
 }

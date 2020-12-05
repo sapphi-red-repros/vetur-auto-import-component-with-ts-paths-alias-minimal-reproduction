@@ -1,14 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^4.17.19",
-    "vue": "^2.6.11",
-    "vue-router": "^3.4.3",
-    "vuex": "^3.4.0"
+    "lodash": "^4.17.20",
+    "vue": "^3.0.4"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.158",
-    "prettier": "^2.0.5",
-    "typescript": "^3.9.7"
+    "@types/lodash": "^4.14.165",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.2"
   },
   "vetur": {
     "tags": "./tags.json"
